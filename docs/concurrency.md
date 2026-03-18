@@ -1,7 +1,7 @@
 # Concurrency in Enhanced Xv6
 
 This document covers concurrency primitives, patterns, and pitfalls in Enhanced Xv6.
-testing 786
+
 ## Overview
 
 Concurrency in xv6 arises from:
